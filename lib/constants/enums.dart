@@ -1,0 +1,1 @@
+enum ButtonName { Edit, ClickHere }
